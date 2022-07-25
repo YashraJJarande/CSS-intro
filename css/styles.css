@@ -1,0 +1,40 @@
+/*hr{
+	border-style:dotted none none;
+	border-color:white;
+	border-width:7px;
+	}
+
+	*/
+	h3:hover 
+	{
+	text-decoration: #395B64 4px underline ;
+	}
+	a:hover
+	{
+	
+	background-color: #7C3E66;
+    width: 300px;
+    border: 5px white;
+    padding: 5px;
+    margin: 0px;
+    color:white;
+	}
+	a
+	{
+	text-decoration:none;
+	}
+	hr{
+	border-style:none;
+	height:2px;
+	background-color: white;
+	}
+	h1{
+	color:#377D71;
+	}
+	body{
+	background-color: #D9F8C4;
+	}
+	h2
+	{
+	color:#377D71;
+	}
